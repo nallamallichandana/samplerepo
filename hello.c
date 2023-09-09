@@ -2,4 +2,5 @@
 int main()
 {
    printf("Hello Rise");
+   return 0;
 }
